@@ -1,0 +1,797 @@
+[
+{
+"season": "2020-2021",
+"stats": [
+{
+"Team": "1. Manchester City",
+"Goals": "83",
+"Shots pg": "15.8",
+"Discipline": [
+"46",
+"2"
+],
+"Possession%": "60.8",
+"Pass%": "89.4",
+"AerialsWon": "12.8",
+"Rating": "7.01"
+},
+{
+"Team": "2. Manchester United",
+"Goals": "73",
+"Shots pg": "13.8",
+"Discipline": [
+"64",
+"1"
+],
+"Possession%": "54.5",
+"Pass%": "84.8",
+"AerialsWon": "14.5",
+"Rating": "6.85"
+},
+{
+"Team": "3. Aston Villa",
+"Goals": "55",
+"Shots pg": "13.7",
+"Discipline": [
+"63",
+"4"
+],
+"Possession%": "49.1",
+"Pass%": "78.6",
+"AerialsWon": "19.4",
+"Rating": "6.84"
+},
+{
+"Team": "4. Chelsea",
+"Goals": "58",
+"Shots pg": "14.6",
+"Discipline": [
+"49",
+"3"
+],
+"Possession%": "58.6",
+"Pass%": "87.0",
+"AerialsWon": "15.2",
+"Rating": "6.83"
+},
+{
+"Team": "5. Liverpool",
+"Goals": "68",
+"Shots pg": "16",
+"Discipline": [
+"40",
+"0"
+],
+"Possession%": "59.0",
+"Pass%": "85.7",
+"AerialsWon": "14.3",
+"Rating": "6.82"
+},
+{
+"Team": "6. Tottenham",
+"Goals": "68",
+"Shots pg": "11.7",
+"Discipline": [
+"53",
+"2"
+],
+"Possession%": "51.3",
+"Pass%": "81.8",
+"AerialsWon": "16.4",
+"Rating": "6.81"
+},
+{
+"Team": "7. Leicester",
+"Goals": "68",
+"Shots pg": "12.8",
+"Discipline": [
+"61",
+"0"
+],
+"Possession%": "53.2",
+"Pass%": "82.1",
+"AerialsWon": "16.2",
+"Rating": "6.80"
+},
+{
+"Team": "8. Leeds",
+"Goals": "62",
+"Shots pg": "13.7",
+"Discipline": [
+"61",
+"1"
+],
+"Possession%": "55.1",
+"Pass%": "80.8",
+"AerialsWon": "14.5",
+"Rating": "6.77"
+},
+{
+"Team": "9. West Ham",
+"Goals": "62",
+"Shots pg": "12.3",
+"Discipline": [
+"48",
+"3"
+],
+"Possession%": "44.5",
+"Pass%": "77.8",
+"AerialsWon": "19.9",
+"Rating": "6.77"
+},
+{
+"Team": "10. Everton",
+"Goals": "47",
+"Shots pg": "10.5",
+"Discipline": [
+"59",
+"2"
+],
+"Possession%": "47.3",
+"Pass%": "81.4",
+"AerialsWon": "17.7",
+"Rating": "6.73"
+},
+{
+"Team": "11. Arsenal",
+"Goals": "55",
+"Shots pg": "12.1",
+"Discipline": [
+"47",
+"5"
+],
+"Possession%": "52.7",
+"Pass%": "85.0",
+"AerialsWon": "13.5",
+"Rating": "6.69"
+},
+{
+"Team": "12. Wolverhampton",
+"Goals": "36",
+"Shots pg": "12.2",
+"Discipline": [
+"53",
+"1"
+],
+"Possession%": "49.7",
+"Pass%": "83.2",
+"AerialsWon": "15.3",
+"Rating": "6.67"
+},
+{
+"Team": "13. Brighton",
+"Goals": "40",
+"Shots pg": "12.8",
+"Discipline": [
+"45",
+"6"
+],
+"Possession%": "50.7",
+"Pass%": "81.3",
+"AerialsWon": "14.2",
+"Rating": "6.65"
+},
+{
+"Team": "14. Burnley",
+"Goals": "33",
+"Shots pg": "10.1",
+"Discipline": [
+"48",
+"0"
+],
+"Possession%": "43.5",
+"Pass%": "71.6",
+"AerialsWon": "23.4",
+"Rating": "6.64"
+},
+{
+"Team": "15. Fulham",
+"Goals": "27",
+"Shots pg": "11.6",
+"Discipline": [
+"67",
+"3"
+],
+"Possession%": "50.0",
+"Pass%": "81.2",
+"AerialsWon": "17.2",
+"Rating": "6.63"
+},
+{
+"Team": "16. Southampton",
+"Goals": "47",
+"Shots pg": "11.2",
+"Discipline": [
+"52",
+"3"
+],
+"Possession%": "51.4",
+"Pass%": "79.3",
+"AerialsWon": "14.1",
+"Rating": "6.62"
+},
+{
+"Team": "17. Newcastle",
+"Goals": "46",
+"Shots pg": "10.4",
+"Discipline": [
+"61",
+"3"
+],
+"Possession%": "41.6",
+"Pass%": "76.0",
+"AerialsWon": "17.1",
+"Rating": "6.62"
+},
+{
+"Team": "18. Crystal Palace",
+"Goals": "41",
+"Shots pg": "9.2",
+"Discipline": [
+"54",
+"2"
+],
+"Possession%": "42.9",
+"Pass%": "76.1",
+"AerialsWon": "18.3",
+"Rating": "6.61"
+},
+{
+"Team": "19. West Bromwich",
+"Goals": "35",
+"Shots pg": "8.9",
+"Discipline": [
+"51",
+"4"
+],
+"Possession%": "41.0",
+"Pass%": "72.2",
+"AerialsWon": "19.1",
+"Rating": "6.51"
+},
+{
+"Team": "20. Sheffield United",
+"Goals": "20",
+"Shots pg": "8.5",
+"Discipline": [
+"73",
+"3"
+],
+"Possession%": "43.0",
+"Pass%": "76.9",
+"AerialsWon": "19.1",
+"Rating": "6.46"
+}
+]
+},
+{
+"season": "2021-2022",
+"stats": [
+{
+"Team": "1. Manchester City",
+"Goals": "99",
+"Shots pg": "18.8",
+"Discipline": [
+"42",
+"1"
+],
+"Possession%": "68.2",
+"Pass%": "89.7",
+"AerialsWon": "12.7",
+"Rating": "7.11"
+},
+{
+"Team": "2. Liverpool",
+"Goals": "94",
+"Shots pg": "19.2",
+"Discipline": [
+"50",
+"1"
+],
+"Possession%": "63.1",
+"Pass%": "84.9",
+"AerialsWon": "15.1",
+"Rating": "7.05"
+},
+{
+"Team": "3. Chelsea",
+"Goals": "76",
+"Shots pg": "15.6",
+"Discipline": [
+"63",
+"1"
+],
+"Possession%": "62.2",
+"Pass%": "87.1",
+"AerialsWon": "14.3",
+"Rating": "6.92"
+},
+{
+"Team": "4. Tottenham",
+"Goals": "69",
+"Shots pg": "12.9",
+"Discipline": [
+"67",
+"1"
+],
+"Possession%": "51.9",
+"Pass%": "85.0",
+"AerialsWon": "14.9",
+"Rating": "6.88"
+},
+{
+"Team": "5. West Ham",
+"Goals": "60",
+"Shots pg": "11.8",
+"Discipline": [
+"47",
+"3"
+],
+"Possession%": "47.4",
+"Pass%": "80.6",
+"AerialsWon": "16.9",
+"Rating": "6.74"
+},
+{
+"Team": "6. Crystal Palace",
+"Goals": "50",
+"Shots pg": "10.8",
+"Discipline": [
+"67",
+"1"
+],
+"Possession%": "50.8",
+"Pass%": "80.3",
+"AerialsWon": "16.1",
+"Rating": "6.72"
+},
+{
+"Team": "7. Arsenal",
+"Goals": "61",
+"Shots pg": "15.5",
+"Discipline": [
+"60",
+"4"
+],
+"Possession%": "52.6",
+"Pass%": "83.4",
+"AerialsWon": "12.4",
+"Rating": "6.71"
+},
+{
+"Team": "8. Manchester United",
+"Goals": "57",
+"Shots pg": "13.4",
+"Discipline": [
+"75",
+"2"
+],
+"Possession%": "52.1",
+"Pass%": "82.8",
+"AerialsWon": "14.7",
+"Rating": "6.71"
+},
+{
+"Team": "9. Brighton",
+"Goals": "42",
+"Shots pg": "12.9",
+"Discipline": [
+"73",
+"2"
+],
+"Possession%": "54.3",
+"Pass%": "81.7",
+"AerialsWon": "15.1",
+"Rating": "6.70"
+},
+{
+"Team": "10. Leicester",
+"Goals": "62",
+"Shots pg": "11.4",
+"Discipline": [
+"55",
+"1"
+],
+"Possession%": "51.8",
+"Pass%": "81.8",
+"AerialsWon": "14",
+"Rating": "6.69"
+},
+{
+"Team": "11. Wolverhampton",
+"Goals": "38",
+"Shots pg": "10.6",
+"Discipline": [
+"59",
+"2"
+],
+"Possession%": "49.3",
+"Pass%": "81.3",
+"AerialsWon": "12.2",
+"Rating": "6.69"
+},
+{
+"Team": "12. Aston Villa",
+"Goals": "52",
+"Shots pg": "12.2",
+"Discipline": [
+"79",
+"2"
+],
+"Possession%": "46.3",
+"Pass%": "79.7",
+"AerialsWon": "14.3",
+"Rating": "6.68"
+},
+{
+"Team": "13. Burnley",
+"Goals": "34",
+"Shots pg": "10.7",
+"Discipline": [
+"68",
+"2"
+],
+"Possession%": "39.1",
+"Pass%": "69.2",
+"AerialsWon": "21.9",
+"Rating": "6.65"
+},
+{
+"Team": "14. Brentford",
+"Goals": "48",
+"Shots pg": "11.6",
+"Discipline": [
+"61",
+"3"
+],
+"Possession%": "44.3",
+"Pass%": "73.7",
+"AerialsWon": "19",
+"Rating": "6.65"
+},
+{
+"Team": "15. Southampton",
+"Goals": "43",
+"Shots pg": "12.7",
+"Discipline": [
+"63",
+"2"
+],
+"Possession%": "47.4",
+"Pass%": "76.6",
+"AerialsWon": "17.8",
+"Rating": "6.63"
+},
+{
+"Team": "16. Newcastle",
+"Goals": "44",
+"Shots pg": "11.8",
+"Discipline": [
+"79",
+"2"
+],
+"Possession%": "39.3",
+"Pass%": "74.6",
+"AerialsWon": "17.8",
+"Rating": "6.61"
+},
+{
+"Team": "17. Everton",
+"Goals": "43",
+"Shots pg": "11.5",
+"Discipline": [
+"78",
+"6"
+],
+"Possession%": "39.1",
+"Pass%": "73.3",
+"AerialsWon": "16.8",
+"Rating": "6.59"
+},
+{
+"Team": "18. Leeds",
+"Goals": "42",
+"Shots pg": "12.8",
+"Discipline": [
+"101",
+"3"
+],
+"Possession%": "51.9",
+"Pass%": "78.0",
+"AerialsWon": "12.6",
+"Rating": "6.54"
+},
+{
+"Team": "19. Watford",
+"Goals": "34",
+"Shots pg": "10.5",
+"Discipline": [
+"57",
+"3"
+],
+"Possession%": "39.7",
+"Pass%": "72.9",
+"AerialsWon": "18.9",
+"Rating": "6.54"
+},
+{
+"Team": "20. Norwich",
+"Goals": "23",
+"Shots pg": "9.8",
+"Discipline": [
+"55",
+"1"
+],
+"Possession%": "42.3",
+"Pass%": "77.5",
+"AerialsWon": "13",
+"Rating": "6.42"
+}
+]
+},
+{
+"season": "2022-2023",
+"stats": [
+{
+"Team": "1. Manchester City",
+"Goals": "53",
+"Shots pg": "16.8",
+"Discipline": [
+"19",
+"1"
+],
+"Possession%": "65.4",
+"Pass%": "89.3",
+"AerialsWon": "12.6",
+"Rating": "6.90"
+},
+{
+"Team": "2. Arsenal",
+"Goals": "45",
+"Shots pg": "16.2",
+"Discipline": [
+"33",
+"0"
+],
+"Possession%": "57.1",
+"Pass%": "85.2",
+"AerialsWon": "11.3",
+"Rating": "6.86"
+},
+{
+"Team": "3. Newcastle",
+"Goals": "33",
+"Shots pg": "14.5",
+"Discipline": [
+"36",
+"0"
+],
+"Possession%": "50.8",
+"Pass%": "78.5",
+"AerialsWon": "14.5",
+"Rating": "6.82"
+},
+{
+"Team": "4. Manchester United",
+"Goals": "32",
+"Shots pg": "13.7",
+"Discipline": [
+"50",
+"0"
+],
+"Possession%": "51.8",
+"Pass%": "81.4",
+"AerialsWon": "12.3",
+"Rating": "6.73"
+},
+{
+"Team": "5. Tottenham",
+"Goals": "40",
+"Shots pg": "13.9",
+"Discipline": [
+"42",
+"1"
+],
+"Possession%": "50.7",
+"Pass%": "84.1",
+"AerialsWon": "14",
+"Rating": "6.71"
+},
+{
+"Team": "6. Liverpool",
+"Goals": "34",
+"Shots pg": "16.5",
+"Discipline": [
+"21",
+"1"
+],
+"Possession%": "59.4",
+"Pass%": "83.1",
+"AerialsWon": "12",
+"Rating": "6.69"
+},
+{
+"Team": "7. Brighton",
+"Goals": "37",
+"Shots pg": "13.6",
+"Discipline": [
+"27",
+"0"
+],
+"Possession%": "57.2",
+"Pass%": "84.4",
+"AerialsWon": "11.8",
+"Rating": "6.65"
+},
+{
+"Team": "8. Chelsea",
+"Goals": "22",
+"Shots pg": "11.6",
+"Discipline": [
+"40",
+"3"
+],
+"Possession%": "58.2",
+"Pass%": "84.7",
+"AerialsWon": "13.5",
+"Rating": "6.64"
+},
+{
+"Team": "9. Brentford",
+"Goals": "32",
+"Shots pg": "10.1",
+"Discipline": [
+"28",
+"0"
+],
+"Possession%": "42.9",
+"Pass%": "74.0",
+"AerialsWon": "16.2",
+"Rating": "6.64"
+},
+{
+"Team": "10. Fulham",
+"Goals": "32",
+"Shots pg": "11.8",
+"Discipline": [
+"50",
+"1"
+],
+"Possession%": "47.2",
+"Pass%": "78.8",
+"AerialsWon": "14",
+"Rating": "6.61"
+},
+{
+"Team": "11. Aston Villa",
+"Goals": "23",
+"Shots pg": "11.5",
+"Discipline": [
+"45",
+"1"
+],
+"Possession%": "48.5",
+"Pass%": "79.8",
+"AerialsWon": "12.9",
+"Rating": "6.58"
+},
+{
+"Team": "12. West Ham",
+"Goals": "17",
+"Shots pg": "13.7",
+"Discipline": [
+"26",
+"0"
+],
+"Possession%": "44.0",
+"Pass%": "79.7",
+"AerialsWon": "15.8",
+"Rating": "6.57"
+},
+{
+"Team": "13. Crystal Palace",
+"Goals": "18",
+"Shots pg": "10.9",
+"Discipline": [
+"45",
+"2"
+],
+"Possession%": "45.3",
+"Pass%": "79.5",
+"AerialsWon": "12.4",
+"Rating": "6.57"
+},
+{
+"Team": "14. Leicester",
+"Goals": "28",
+"Shots pg": "10.7",
+"Discipline": [
+"24",
+"0"
+],
+"Possession%": "51.0",
+"Pass%": "82.7",
+"AerialsWon": "12",
+"Rating": "6.56"
+},
+{
+"Team": "15. Leeds",
+"Goals": "26",
+"Shots pg": "12.5",
+"Discipline": [
+"40",
+"2"
+],
+"Possession%": "49.8",
+"Pass%": "75.6",
+"AerialsWon": "14.6",
+"Rating": "6.56"
+},
+{
+"Team": "16. Everton",
+"Goals": "15",
+"Shots pg": "9.9",
+"Discipline": [
+"42",
+"0"
+],
+"Possession%": "46.3",
+"Pass%": "80.1",
+"AerialsWon": "12.5",
+"Rating": "6.55"
+},
+{
+"Team": "17. Southampton",
+"Goals": "17",
+"Shots pg": "11.3",
+"Discipline": [
+"32",
+"0"
+],
+"Possession%": "43.8",
+"Pass%": "76.1",
+"AerialsWon": "15.9",
+"Rating": "6.49"
+},
+{
+"Team": "18. Wolverhampton",
+"Goals": "12",
+"Shots pg": "11.6",
+"Discipline": [
+"41",
+"3"
+],
+"Possession%": "48.8",
+"Pass%": "82.1",
+"AerialsWon": "11.5",
+"Rating": "6.49"
+},
+{
+"Team": "19. Nottingham Forest",
+"Goals": "16",
+"Shots pg": "10.7",
+"Discipline": [
+"44",
+"0"
+],
+"Possession%": "39.8",
+"Pass%": "74.6",
+"AerialsWon": "14.5",
+"Rating": "6.47"
+},
+{
+"Team": "20. Bournemouth",
+"Goals": "19",
+"Shots pg": "8.4",
+"Discipline": [
+"33",
+"0"
+],
+"Possession%": "40.1",
+"Pass%": "77.2",
+"AerialsWon": "13.5",
+"Rating": "6.47"
+}
+]
+}
+]
